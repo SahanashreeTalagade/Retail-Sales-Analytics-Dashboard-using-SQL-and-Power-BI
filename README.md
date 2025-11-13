@@ -32,6 +32,16 @@ The goal is to visualize key retail performance metrics such as total sales, pro
 
 ---
 
+## 📸 Screenshots
+
+**SQL Queries Example:**  
+![SQL Queries](sql_query.png)
+
+**Power BI Dashboard Overview:**  
+![Dashboard](dashboard.png)
+
+---
+
 ## 📈 Dashboard Features
 - **Business Overview:** Total sales, quantity, and return KPIs.  
 - **Category & Gender Insights:** Detailed product and customer breakdown.  
@@ -49,10 +59,11 @@ The goal is to visualize key retail performance metrics such as total sales, pro
 ---
 
 ## 📎 Files Included
-- `Retail_Sales_Analysis.sql` – SQL queries used for data analysis  
 - `Retail_Sales_Dashboard.pbix` – Power BI dashboard file  
 - `Retail_Sales_Report.pdf` – exported dashboard summary  
 - `README.md` – documentation file  
+- `sql_query.png` – screenshot of SQL queries  
+- `dashboard.png` – screenshot of Power BI dashboard  
 
 ---
 
